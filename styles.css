@@ -20,6 +20,9 @@ h1{
     text-align: justify;
   
 }
+.post-headers{
+    color: white;
+}
 
 .links-container{
     display: flex;
