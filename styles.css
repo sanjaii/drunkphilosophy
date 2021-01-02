@@ -52,6 +52,12 @@ a:hover {
     color:#a786df;
     text-decoration: underline;
 }
+.footer{
+   
+    display: flex;
+    justify-content:flex-end;
+  
+}
 
 @media only screen and (max-width:400px){
     .page{
